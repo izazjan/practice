@@ -3,4 +3,5 @@ import 'package:test/test.dart';
 
 void main() {
   print('izaz');
+  rint(' khan');
 }
